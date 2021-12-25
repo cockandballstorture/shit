@@ -32,6 +32,7 @@ public class sircle : MonoBehaviour
     public void Damage()
     {
         col.color = Color.red;
+        Debug.Log("qq");
     }
 
 }
